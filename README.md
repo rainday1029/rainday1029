@@ -6,6 +6,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainday1029&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainday1029&layout=compact&theme=vue-dark)
 
+You are my ![Vistor Count](https://profile-counter.glitch.me/rainday1029/count.svg) visitor, Thank You!!
 <!--
 **rainday1029/rainday1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
