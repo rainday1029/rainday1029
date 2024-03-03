@@ -1,5 +1,5 @@
 ### Hi there 👋
-  I am a graduate student studying EE at CCU.
+- 😄 I’m graduate student studying EE at CCU.
 - 🌱 I’m currently learning ML/DL
 - 💬 Ask me about C/C++/Python
 
