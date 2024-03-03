@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainday1029)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsiangfeng&theme=vue-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainday1029&theme=vue-dark)
+
 
 <!--
 **rainday1029/rainday1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
