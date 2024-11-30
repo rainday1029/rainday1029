@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- - 😄 I’m graduate student studying EE at CCU. -->
-- 🌱 I’m currently learning ML/DL
 - 🔭 I’m currently working on FW Engineer
+- 🌱 I’m currently learning ML/DL
 - 💬 Ask me about C/C++/Python/HTML/JavaScript/Lua/Vue
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainday1029&theme=vue-dark)
